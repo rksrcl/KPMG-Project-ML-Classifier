@@ -1,0 +1,3 @@
+- Built a Logistic Regression model and Random Forest Decision Tree model to classify whether C5LA's donors would donate again
+- C5LA is one of KPMG's clients and a non-profit that supports grade school students accessing higher education
+- Findings summarized from 3-month project in PowerPoint pdf
